@@ -14,5 +14,5 @@
 
 ## My current status:
 
-[![amzur5's GitHub stats](https://github-readme-stats.vercel.app/api?username=amzur5&show_icons=true&theme=react)](https://github.com/amzur5/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amzur5)](https://github.com/amzur5/github-readme-stats)
+[![zelindro's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelindro&show_icons=true&theme=react)](https://github.com/zelindro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelindro)](https://github.com/zelindro/github-readme-stats)
