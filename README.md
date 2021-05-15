@@ -2,7 +2,7 @@
 
   I'm Arthur, a computer engineering student from FURG. Despite having my greatest current knowledge in C++, I really like web development and because of that I am running after it to learn as much as possible. Here's my e-mail and linkedin in case you want to contact me:
 
-[![Gmail Badge](https://img.shields.io/badge/-zelindroarthur@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zelindroarthur.com)](mailto:zelindroarthur1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-zelindroarthur@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zelindroarthur@gmail.com)](mailto:zelindroarthur1@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-arthurzelindro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-zelindro-b6398016b/)](https://www.linkedin.com/in/arthur-zelindro-b6398016b/)
 
 ## Languages I know:
