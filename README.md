@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-zelindroarthur@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zelindroarthur@gmail.com)](mailto:zelindroarthur1@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-arthurzelindro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-zelindro-b6398016b/)](https://www.linkedin.com/in/arthur-zelindro-b6398016b/)
 
-## Languages I know:
+## My current knowledge:
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
